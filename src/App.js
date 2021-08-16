@@ -13,8 +13,7 @@ const baseUrl = 'https://api.openweathermap.org/data/2.5/onecall';
 const api = '1534fe794e6e8cd346728ce7e4d9ca65';
 
 function App() {
-// const [lat, setLatitude] = useState[3.2076514177527944];
-// const [long, setLongitude] = useState[101.51158585576206];
+
 
 const  [temperature, setTemperature] = useState(null);
 const  [weather, setWeather] = useState(null);
